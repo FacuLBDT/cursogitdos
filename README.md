@@ -1,1 +1,5 @@
 # cursogitdos
+
+ ## rutas
+ 
+- Bienvenida
