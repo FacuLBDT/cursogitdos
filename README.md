@@ -1,6 +1,6 @@
-# cursogitdos
+# cursogitdos bersion 2
 
- ## rutas
+ ## rutas de la aplicacion
  
 - Bienvenida
-- - market
+- - market place
